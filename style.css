@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("./image/Screenshot 2024-07-14 163632.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+[href]
+{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+[href]:hover
+{
+    color: #000000;
+    text-decoration: underline;
+}
